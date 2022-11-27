@@ -4,3 +4,5 @@ To-Do List project is an application specially built to keep track of errands or
 You can add the tasks that are to be done in a descriptive way.
 You will be able to add as many tasks as you have.
 Once the task is completed, you will be able to remove it by clicking on “Task Completed” button.
+![Screenshot (51)](https://user-images.githubusercontent.com/89139455/204118910-5e206e0d-6819-49eb-beb8-4407a0d3f9df.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/89139455/204118914-cf8cc257-f817-4dbb-b6da-ae0d6927da7b.png)
